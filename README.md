@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mngithub1200
-- 👀 I’m interested in Data Analysis ( Excel, SQL, Power BI, Tableau)
+- 👀 I’m interested in Data Analysis ( Excel, SQL, Power BI)
 - 📫 How to reach me naukarkarminakshi@gmail.com
-- ⚡ Fun fact: Drawing, Reading books
+- ⚡ Fun fact: Drawing, Cooking
 
 <!---
 mngithub1200/mngithub1200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
