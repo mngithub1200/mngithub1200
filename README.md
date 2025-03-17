@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mngithub1200
-- 👀 I’m interested in Data Analysis ( Excel, SQL, Power BI)
+- 👀 I’m interested in Data Analysis ( Excel, SQL, Power BI, Core Python)
 - 📫 How to reach me naukarkarminakshi@gmail.com
 - ⚡ Fun fact: Drawing, Cooking
 
